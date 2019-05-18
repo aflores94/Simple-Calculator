@@ -1,0 +1,22 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aflores94/Simple-Calculator.git"
+  },
+  "author": "andrea flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aflores94/Simple-Calculator/issues"
+  },
+  "homepage": "https://github.com/aflores94/Simple-Calculator#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
